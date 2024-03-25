@@ -3,6 +3,7 @@
     Endpoint details 
     GET(all the files): https://nodejs-filesystem-nedn.onrender.com/all
     GET(homepage): https://nodejs-filesystem-nedn.onrender.com/
-    POST: https://nodejs-filesystem-nedn.onrender.com/createFile
+    POST: https://nodejs-filesystem-nedn.onrender.com/createFile,
+        http://localhost:4001/createFile
     
     GitHub Repository: https://github.com/gauravc94/nodejs-filesystem
