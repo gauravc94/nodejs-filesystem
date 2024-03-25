@@ -1,3 +1,8 @@
-    Render URL: 
-    Endpoint details: /createFile
+    Render URL: https://nodejs-filesystem-nedn.onrender.com/
+
+    Endpoint details 
+    GET(all the files): https://nodejs-filesystem-nedn.onrender.com/all
+    GET(homepage): https://nodejs-filesystem-nedn.onrender.com/
+    POST: https://nodejs-filesystem-nedn.onrender.com/createFile
+    
     GitHub Repository: https://github.com/gauravc94/nodejs-filesystem
